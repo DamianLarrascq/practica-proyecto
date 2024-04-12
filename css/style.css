@@ -10,7 +10,7 @@ header {
 
 }
 
-a {
+nav>a {
 
     background-color: chocolate;
     padding: 5px;
@@ -51,4 +51,10 @@ h3 {
 
 .mail {
     background-color: white;
+}
+
+.sucursales p{
+
+    font-weight: normal;
+
 }
